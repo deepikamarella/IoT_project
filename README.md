@@ -4,7 +4,7 @@
  src="https://user-images.githubusercontent.com/85957181/123552312-35572500-d793-11eb-936f-33f9e6242c8c.png">
  </p>
   
-  ## ***Desiners***👧👩🧑
+  ## ***DesiGners***👧👩🧑
         a. M.Deepika (Branch👨‍🎓 : CSE, roll no:201000027)
         b. k.Priyanka (Branch👨‍🎓 : DSAI,roll no:201020422)
         c. K.Sai Swetha (Branch👨‍🎓: ECE,roll no:201010228)

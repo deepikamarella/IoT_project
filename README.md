@@ -40,7 +40,7 @@ and calculated the percent plagiarised and appends it into the list.Finally it p
      
      
      
-  ## ***levenshtein algorithm*** 📈
+  ## ***Levenshtein algorithm*** 📈
      The Levenshtein algorithm (also called Edit-Distance) calculates the least number of edit operations that are necessary to modify one string to obtain another string.
      The pictorial representation of the example matrix used in Levenshtein algorithm is
    <p align="center">
@@ -48,7 +48,7 @@ and calculated the percent plagiarised and appends it into the list.Finally it p
   src="https://user-images.githubusercontent.com/81485191/123628952-4b1b2780-d831-11eb-8d0d-d5fc7df635ee.jpeg">
   </p>
   
-  ## ***input***
+  ## ***Input***
   <p align="center">
  <img width ="373" height="300"
    src="https://user-images.githubusercontent.com/85957181/123632848-0b0a7380-d836-11eb-910f-36d7439cf16e.jpg">

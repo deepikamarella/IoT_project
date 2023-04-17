@@ -6,7 +6,7 @@
   
   ## ***Designers***👧👩🧑
         a. M.Deepika (Branch👨‍🎓 : CSE, roll no:201000027)
-        b. k.Priyanka (Branch👨‍🎓 : DSAI,roll no:201020422)
+        b. K.Priyanka (Branch👨‍🎓 : DSAI,roll no:201020422)
         c. K.Sai Swetha (Branch👨‍🎓: ECE,roll no:201010228)
   ## ***Description***📝
   
